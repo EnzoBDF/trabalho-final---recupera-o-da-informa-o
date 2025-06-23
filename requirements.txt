@@ -1,0 +1,4 @@
+rank_bm25
+gensim
+whoosh
+PyPDF2

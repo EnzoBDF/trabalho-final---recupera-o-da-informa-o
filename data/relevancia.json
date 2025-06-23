@@ -1,0 +1,19 @@
+{
+  "gatos domésticos": ["Doc1"],
+  "animais leais": ["Doc3"],
+  "felinos caçadores": ["Doc2"],
+  "animais domésticos": ["Doc1", "Doc3"],
+  "florestas": ["Doc2"],
+  "cães carinhosos": ["Doc3"],
+  "felinos amigáveis": ["Doc1", "Doc2"],
+  "ética dos algoritmos e ciência da informação": ["123417.pdf"],
+  "epistemologia e paradigmas da ciência da informação": ["123417.pdf"],
+  "contribuições da ciência da informação para a segurança": ["124311.pdf"],
+  "gestão de riscos em segurança da informação": ["124311.pdf"],
+  "acesso aberto à informação científica em saúde": ["1828-Texto do Artigo-4401-1-10-20160215.pdf"],
+  "recuperação da informação em periódicos eletrônicos": ["1828-Texto do Artigo-4401-1-10-20160215.pdf"],
+  "interoperabilidade de sistemas em saúde coletiva": ["1828-Texto do Artigo-4401-1-10-20160215.pdf"],
+  "interdisciplinaridade da ciência da informação": ["123417.pdf", "124311.pdf"],
+  "desafios da era digital para a informação": ["123417.pdf", "1828-Texto do Artigo-4401-1-10-20160215.pdf"],
+  "políticas de acesso à informação": ["124311.pdf", "1828-Texto do Artigo-4401-1-10-20160215.pdf"]
+}
